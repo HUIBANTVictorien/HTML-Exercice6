@@ -1,0 +1,55 @@
+.premier {
+  background-color: #2ECC71;
+  width: 75%;
+  height : 35px;
+  float :left;
+}
+.second {
+  background-color: #2980B9;
+  width: 25%;
+  height : 35px;
+  float: right;
+}
+.troisième {
+  background-color: #E74C3C;
+  width: 33%;
+  height: 130px;
+  float: left;
+}
+.quatrième {
+  background-color: #E67E22;
+  width: 33%;
+  height: 65px;
+  float: left;
+}
+.cinquième {
+  background-color: #95A5A6;
+  width: 34%;
+  height: 65px;
+  float: right;
+}
+.sixième {
+  background-color: #F39C12;
+  width: 22%;
+  height: 65px;
+  float: left;
+}
+.septième {
+  background-color: #16A085;
+  width: 22%;
+  height: 65px;
+  float: left;
+}
+.huitième {
+  background-color: #D35400;
+  width: 23%;
+  height: 65px;
+  float: left;
+
+}
+.neuvième{
+  background-color:#2C3E50 ;
+  width: 100%;
+  height : 260px;
+  float: left;
+}
